@@ -27,7 +27,7 @@
 
 
 ### Задание 3
-[Гороскоп]()
+[Гороскоп](https://github.com/netology-code/cpps-homeworks/tree/main/1.2/1.2.3)
 
 
 ### Задание 4*
