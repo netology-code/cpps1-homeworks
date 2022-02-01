@@ -31,6 +31,6 @@
 
 
 ### Задание 4*
-[Сравни числа]()
+[Сравни числа](https://github.com/netology-code/cpps-homeworks/tree/main/1.2/1.2.4)
 
 
