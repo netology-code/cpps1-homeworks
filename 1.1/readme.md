@@ -22,4 +22,4 @@
 
 
 # Задание 2.
-[Повторюшка]()
+[Повторюшка](https://github.com/netology-code/cpps-homeworks/tree/main/1.1/1.1.2)
