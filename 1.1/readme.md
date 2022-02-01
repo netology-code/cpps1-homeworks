@@ -11,6 +11,10 @@
 
 ------
 
+### [Инструкция к заданию](https://github.com/netology-code/cpps-homeworks/blob/main/common/readme.md)
+
+------
+
 ### Чеклист готовности к домашнему заданию
 
 1. Для выполнения домашней работы нужно быть зарегистрированным на [repl.it](https://repl.it/)
