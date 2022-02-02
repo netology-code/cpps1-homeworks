@@ -14,7 +14,9 @@
 1. Для выполнения задания и дальнейшего прохождения курса требуется компьютер с операционной системой Windows, MacOS или Linux с установленной последней версией браузера Chrome или FireFox.
 2. Для работы в repl.it необходимо зарегистрироваться на сайте. Инструкция по регистрации в repl.it
 
-### [Инструкция к заданию](https://github.com/netology-code/cpps-homeworks/blob/main/common/readme.md)
+### Инструкция
+
+[Инструкция по выполнению домашнего задания](https://github.com/netology-code/cpps-homeworks/blob/main/common/readme.md)
 
 ------
 
