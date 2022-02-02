@@ -4,7 +4,7 @@
 
 Вот что вы увидите:
 
-![](pic/image2.png)
+![](pic/image2.png){:height="36px" width="36px"}
 
 2. В правом верхнем углу нажмите Sign up
 
