@@ -3,4 +3,5 @@
 1. Перейдите по ссылке https://replit.com
 
 2. В правом верхнем углу нажмите Sign up
+
 ![](pic/image9.png)
