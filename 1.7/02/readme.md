@@ -28,11 +28,3 @@ x = 6, y = 9
 Для вывода на консоль использовать `std::cout`
 
 </details>
-
-<details>
-
-<summary>Подсказка 2. Решение</summary>
-
-![Решение](./solution.png)
-
-</details>
