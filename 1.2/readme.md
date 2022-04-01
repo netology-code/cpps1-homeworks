@@ -17,16 +17,16 @@
 ------
 
 ### Задание 1
-[Таблица истинности](https://github.com/netology-code/cpps-homeworks/tree/main/1.2/1.2.1)
+[Таблица истинности](https://github.com/netology-code/cpps1-homeworks/tree/main/1.2/1.2.1)
 
 ### Задание 2
-[Упорядочить числа](https://github.com/netology-code/cpps-homeworks/tree/main/1.2/1.2.2)
+[Упорядочить числа](https://github.com/netology-code/cpps1-homeworks/tree/main/1.2/1.2.2)
 
 ### Задание 3
-[Гороскоп](https://github.com/netology-code/cpps-homeworks/tree/main/1.2/1.2.3)
+[Гороскоп](https://github.com/netology-code/cpps1-homeworks/tree/main/1.2/1.2.3)
 
 ### Задание 4*
-[Сравни числа](https://github.com/netology-code/cpps-homeworks/tree/main/1.2/1.2.4)
+[Сравни числа](https://github.com/netology-code/cpps1-homeworks/tree/main/1.2/1.2.4)
 
 ------
 
