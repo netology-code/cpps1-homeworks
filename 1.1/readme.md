@@ -22,7 +22,7 @@
 [Пишем первую программу](https://github.com/netology-code/cpps1-homeworks/tree/main/1.1/1.1.1) 
 
 ### Задание 2
-[Повторюшка](https://github.com/netology-code/cpps-homeworks/tree/main/1.1/1.1.2)
+[Повторюшка](https://github.com/netology-code/cpps1-homeworks/tree/main/1.1/1.1.2)
 
 ------
 
