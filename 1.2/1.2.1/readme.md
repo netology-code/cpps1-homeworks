@@ -16,11 +16,3 @@ true    true    true
 false   true    false
 true    false   false
 false   false   false
-
-Оператор: ^
-true    true    false
-false   true    true
-true    false   true
-false   false   false
-```
-
